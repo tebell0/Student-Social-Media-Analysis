@@ -9,4 +9,11 @@ As the world continues to grow, much of human interaction is found on online soc
 5. Perform formatting and filtering for ease of understanding
 
 ## Final Result
+Usage Analysis
+
+<img width="1170" height="720" alt="image" src="https://github.com/user-attachments/assets/c4f9fd45-828f-41f4-9f95-05858e49379d" />
+
+Conflict Analysis
+
+<img width="1170" height="720" alt="image" src="https://github.com/user-attachments/assets/37a43c40-5c8d-4887-ad06-d225be75d578" />
 
